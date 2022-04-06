@@ -5,6 +5,7 @@ Goals:
     - Practicing Powershell
     - Collecting Security Related Information
 
+Requires: Powershell v5.1 or Higher
 
 How To Use:
 
